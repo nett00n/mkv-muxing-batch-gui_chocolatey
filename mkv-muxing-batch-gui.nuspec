@@ -8,7 +8,7 @@
     <owners>nett00n</owners>
     <licenseUrl>https://github.com/yaser01/mkv-muxing-batch-gui/blob/main/LICENSE</licenseUrl>
     <projectUrl>https://github.com/yaser01/mkv-muxing-batch-gui</projectUrl>
-    <iconUrl>https://cdn.statically.io/img/avatars.githubusercontent.com/u/12179488</iconUrl>
+    <iconUrl>https://cdn.statically.io/gh/yaser01/mkv-muxing-batch-gui/main/Resources/Icons/App.ico</iconUrl>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
     <description>App for muxing(merging) videos with [subtitles,chapters,attachments] with many options</description>
     <summary>
