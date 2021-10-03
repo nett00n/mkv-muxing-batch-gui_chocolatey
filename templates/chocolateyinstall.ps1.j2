@@ -1,0 +1,8 @@
+$packageName = 'mkv-muxing-batch-gui_chocolatey'
+$url = '{{ win32_url }}'
+$checksum = '{{ win32_hashsum }}'
+$checksumType = 'sha256'
+$unzipLocation = $(Split-Path -parent $MyInvocation.MyCommand.Definition)
+
+Install-ChocolateyZipPackage $packageName $url $unzipLocation -checksum $checksum -checksumType $checksumType -checksumType64 $checksumType
+Install-ChocolateyShortcut -shortcutFilePath "$env:ALLUSERSPROFILE\Microsoft\Windows\Start Menu\Programs\MKV Muxing Batch GUI.lnk" "$unzipLocation\MKV Muxing Batch GUI\MKV Muxing Batch GUI.exe"
