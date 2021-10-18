@@ -26,7 +26,7 @@
     <copyright>Yasser Milato</copyright>
     <tags>mkv video tool subtitles</tags>
     <projectSourceUrl>https://github.com/yaser01/mkv-muxing-batch-gui</projectSourceUrl>
-    <packageSourceUrl>https://github.com/nett00n/mkv-muxing-batch-gui</packageSourceUrl>
+    <packageSourceUrl>https://github.com/nett00n/mkv-muxing-batch-gui_chocolatey</packageSourceUrl>
     <bugTrackerUrl>https://github.com/yaser01/mkv-muxing-batch-gui/issues</bugTrackerUrl>
     <dependencies>
       <dependency id="dotnet4.5" />
