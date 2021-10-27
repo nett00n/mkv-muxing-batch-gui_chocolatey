@@ -2,7 +2,7 @@
 <package xmlns="http://schemas.microsoft.com/packaging/2011/08/nuspec.xsd">
   <metadata>
     <id>mkv-muxing-batch-gui</id>
-    <version>1.0.5</version>
+    <version>2.1</version>
     <title>MKV Muxing Batch GUI (portable)</title>
     <authors>Yasser Milato</authors>
     <owners>nett00n</owners>

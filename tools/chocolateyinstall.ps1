@@ -1,6 +1,6 @@
 $packageName = 'mkv-muxing-batch-gui_chocolatey'
-$url = 'https://github.com/yaser01/mkv-muxing-batch-gui/releases/download/1.0.5/MKV.Muxing.Batch.GUI.Portable.x64.zip'
-$checksum = '41b2bd1e2c86faa6ad81499716807ef7fee49831aebfa6803b8ddbc2b41e50e8'
+$url = 'https://github.com//yaser01/mkv-muxing-batch-gui/releases/download/2.1/MKV.Muxing.Batch.GUI.x32.v2.1.Portable.zip'
+$checksum = '4c5e37f11d97beb0013c70add74eae6fdb84f4570384579210a7243ae6b54422'
 $checksumType = 'sha256'
 $unzipLocation = $(Split-Path -parent $MyInvocation.MyCommand.Definition)
 

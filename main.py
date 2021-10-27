@@ -82,7 +82,7 @@ def get_download_url_from_html(keyphrase, github_html_data_lines, version):
         fields = line.split('"')
         if keyphrase not in line:
             continue
-        url = fields[1]
+        url = github_prefix + fields[1]
         print(url)
         return(url)
 
